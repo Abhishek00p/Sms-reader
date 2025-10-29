@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- TODO Remove the following backup-exclude tags when targeting API 31+ -->
+    <exclude domain="database" path="sms_database.db"/>
+    <exclude domain="sharedpref" path="sms_forwarder_prefs.xml"/>
+</full-backup-content>
